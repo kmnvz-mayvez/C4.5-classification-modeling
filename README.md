@@ -1,4 +1,4 @@
-# C4.5-classification-modeling
+# C4.5 classification modeling
 
 ## Algoritma Dasar
 
@@ -10,5 +10,10 @@ C4.5 (atau C5.0) adalah salah satu algoritma khusus untuk membangun decision tre
 
 # Result Rapidminer
 
+- visualisasi
 ![result rapidminer](https://github.com/kmnvz-mayvez/C4.5-classification-modeling/assets/55338832/335bbb8c-e3eb-40fc-80c6-ac447dd3c509)
+
+- performa
+![rapidminer performance](https://github.com/kmnvz-mayvez/C4.5-classification-modeling/assets/55338832/de0410ab-a49d-4850-8993-0dbab1452a7f)
+
 
